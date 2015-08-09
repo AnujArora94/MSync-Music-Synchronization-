@@ -1,11 +1,11 @@
 # MSync-Music-Synchronization-
 
-###Contributors###
+##Contributors##
 
-##Developed By##
+###Developed By###
 Anuj Arora
 
-##Designed By##
+###Designed By###
 Puranjay Jain
 
 Coming Soon
